@@ -27,7 +27,7 @@ A voting account can be shown to be owned by one of the voting ids but you canâ€
 
 Finally when we have set up this Blockchain Network, we have a public ledger that anyone already part of the network can verify .This make it extremely transparent and hence above the suspicion of sabotage or foul play.
 
-#### Implementing in India.
+#### Implementing in India
 
 ##### Who will be a suitable user for this system or What does ID verification checks?
 i. Person must be above 18 years old.\
@@ -36,12 +36,12 @@ iii. He/she should have a phone with a working camera.
 
 ##### Registering on the voting system
 i. Use OTP based authentication on mobile number linked with aadhar number.\
-ii.Check if user is eligible for voting and authenticate accordingly.\ 
+ii.Check if user is eligible for voting and authenticate accordingly. 
 
 ##### Voting
 i. Vote can be given only once. Multiple confirmation dialog boxes so that the user doesn't make a mistake.\
 ii. Allot different slots such that server is never overloaded with requests.\
 iii. While voting, to confirm a legible vote the user must click a video of himself saying a random phrase.\
 iv. Use speech to text api to check if the voter said the correct phrase and also confirm the identity of the voter via face recognition and cross check with Aadhar Card photo.\
-v. Use Azure Blockchain to register vote.\  
+v. Use Azure Blockchain to register vote.  
 
